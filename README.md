@@ -1,4 +1,3 @@
-# meu-novo-projeto
-Atividade em sala sobre gerenciamento de configuração
+# meu-novo-projetoAtividade em sala sobre gerenciamento de configuração
 
- Este reposit´orio foi criado para aprender e praticar conceitos de Git e GitHub.
+ Este repositório foi criado para aprender e praticar conceitos de Git e GitHub.
