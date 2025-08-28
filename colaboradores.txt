@@ -1,2 +1,5 @@
 Nome: Lucas Ferreira
 Estudante de Analise e Desenvolvimento de Sistemas
+
+Nome: Patrick Estrela
+Descrição: Estrela do mar
